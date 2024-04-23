@@ -1,0 +1,60 @@
+courseName,Pre-Requisite
+English Language,None
+Basic Electronics,None
+Calculus - I,None
+English Language Lab,None
+Intro to Computing,None
+Intro to Comp Lab,None
+Islam and Relig Std,None
+DLD Lab,Basic Electronics
+Pakistan Studies,None
+Computer Programming,Intro to Computing
+Calculus - II,Calculus - I
+Computer Prog Lab,Intro to Comp Lab
+English Composition,English Language
+Digital Logic Design,Basic Electronics
+Computer Prog Lab,Intro to Comp Lab
+Computer Programming,Intro to Computing
+COAL Lab,None
+Discrete Structures,None
+COAL,None
+Data Structures,Computer Programming
+Psychology,None
+Linear Algebra,None
+Probability and Stat,None
+COAL,None
+Linear Algebra,None
+Data Structures,Computer Programming
+COAL Lab,None
+Discrete Structures,None
+OOAD,None
+Artificial Intelligence,Discrete Structures
+TBW,None
+OOAD Lab,None
+Arabic Language,None
+Discrete Structures,None
+Operating Sys Lab,Data Structures
+Operating Systems,Data Structures
+Linear Algebra,None
+Micro Economics,None
+Theory of Automata,None
+Comp Networks Lab,None
+Computer Networks,None
+Database Systems,Data Structures
+COAL Lab,None
+Database Systems Lab,Data Structures
+Comp Architecture,None
+Software Engineering,None
+DA of Algorithms,Data Structures
+Project - I,None
+Human Comp Int,None
+Prof Issues in IT,None
+International HR Mgmt,None
+Info Sys Security,None
+Dsgn Dfct and Restrct,None
+Intro. to SW PM,None
+IS Audit and Control,None
+Fund of Management,None
+Project - II,None
+Fund.of Probabilis Programming,None
+Software Testing,None

@@ -1,0 +1,50 @@
+courseName,Pre-Requisite
+Programming Fundamentals,None
+English Composition & Comprehension Lab,None
+Islamic Studies & Ethics,None
+Applied Physics,None
+Calculus & Analytical Geometry,None
+English Composition & Comprehension,None
+Programming Fundamentals Lab,None
+Differential Equations,Calculus & Analytical Geometry
+Pakistan Studies,None
+Digital Logic Design,Applied Physics
+Object Oriented Programming Lab,Programming Fundamentals Lab
+Digital Logic Design Lab,Applied Physics
+Communication & Presentation Skills,English Composition & Comprehension
+Object Oriented Programming,Programming Fundamentals
+Social Science Related,None
+Data Structures & Algorithms,Object Oriented Programming
+Comp. Organization & Assembly Language,None
+Comp. Organization & Assembly Language Lab,None
+Discrete Structures,None
+Linear Algebra,None
+Economy Related,None
+Probability & Statistics,None
+Operating Systems,Data Structures & Algorithms
+Theory of Automata,None
+Operating Systems Lab,Data Structures & Algorithms
+Domain CS Supporting,None
+Management Related,None
+Database Systems Lab,Data Structures & Algorithms
+Domain CS Core Lab,None
+Database Systems,Data Structures & Algorithms
+Domain CS Core,None
+Domain CS Core,None
+Design & Analysis of Algorithms,Data Structures & Algorithms
+Computer Networks,None
+CS Elective,None
+Computer Networks Lab,None
+Software Engineering,None
+Artificial Intelligence,Discrete Structures
+Technical & Business Writing,None
+CS Elective,None
+Information Security,None
+CS Elective,None
+Final Year Project,None
+CS Elective,None
+Final Year Project,None
+CS Elective,None
+Compiler Construction,Theory of Automata
+Introduction to Info. & Comm. Technologies,None
+Management Related,None
